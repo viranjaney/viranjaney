@@ -14,7 +14,6 @@ I specialize in building **robust ETL/ELT pipelines**, implementing **Medallion 
 
 I enjoy working at the intersection of **data engineering, analytics enablement, and automation**, and I’ve supported multiple **enterprise data migrations and BI modernization initiatives**.
 
-✅ Available for **full-time roles** under **Stamp 1G visa**.
 
 ---
 
