@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a **Data Engineer/Data Analyst/BI Analyst with 4+ years of experience** designing and delivering **scalable, cloud-native data platforms** across **Azure, Databricks, Snowflake, and Microsoft Fabric**.
+I’m a **Data Engineer/ Data Analyst/ BI Analyst with 4+ years of experience** designing and delivering **scalable, cloud-native data platforms** across **Azure, Databricks, Snowflake, and Microsoft Fabric**.
 
 I specialize in building **robust ETL/ELT pipelines**, implementing **Medallion (Bronze–Silver–Gold) architectures**, and transforming raw data into **analytics-ready datasets** that power BI platforms like **Power BI, Tableau, and ThoughtSpot**.
 
